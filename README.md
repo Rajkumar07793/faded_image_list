@@ -25,7 +25,7 @@ simply call ImageSlider() and pass list of Strings url
 
 
 ## Screenshots
-<img src="https://raw.githubusercontent.com/Rajkumar07793/faded_image_list/master/image.gif"/>
+<img src="image.gif"/>
 
 
 ## Usage

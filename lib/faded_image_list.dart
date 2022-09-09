@@ -25,7 +25,6 @@ class _ImageSliderState extends State<ImageSlider>
     } else {
       imageIndex = 0;
     }
-    // print("$imageIndex }");
   }
 
   animate() {
@@ -63,7 +62,6 @@ class _ImageSliderState extends State<ImageSlider>
       animationController!.forward();
       imgIndex();
       imageIndex = imageIndex;
-      // print("imageIndex $imageIndex");
     });
   }
 

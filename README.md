@@ -1,15 +1,3 @@
-<!-- 
-This README describes the package. If you publish this package to pub.dev,
-this README's contents appear on the landing page for your package.
-
-For information about how to write a good package README, see the guide for
-[writing package pages](https://dart.dev/guides/libraries/writing-package-pages). 
-
-For general information about developing packages, see the Dart guide for
-[creating packages](https://dart.dev/guides/libraries/create-library-packages)
-and the Flutter guide for
-[developing packages and plugins](https://flutter.dev/developing-packages). 
--->
 
 It helps developers to show animated faded image list in the application
 
@@ -56,7 +44,6 @@ class MyApp extends StatelessWidget {
     images.add(
         'https://images.unsplash.com/photo-1660335767235-9a4988cc7451?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=480&ixid=MnwxfDB8MXxyYW5kb218MHx8fHx8fHx8MTY2MjYzMTU2MQ&ixlib=rb-1.2.1&q=80&w=640');
     images.add(image);
-    // print(image);
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Animated image list',
